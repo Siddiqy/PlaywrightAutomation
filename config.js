@@ -1,0 +1,1 @@
+export const baseUrl = 'https://revibe-web-client-voyage-sms-voyagesms.vercel.app/'
